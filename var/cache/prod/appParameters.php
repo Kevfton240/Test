@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'testKongo',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => '4RYydqinXvzkLscjGqhd1xkcj4dpxcgkAx4a4eNozKqnNwH5FIeijVQpxmAw6APx',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-11-04',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'zD6brMYUUGxuzv8ZZwebnz3BTin74DUCUwUy0C0eL7T64HUwcDFxnPyr0Vjwu056',
+    'cookie_iv' => '9g6G5VHeBp06hy2LNSR5kUgzt29q1P0F',
+    'new_cookie_key' => 'def0000049c677e64a0653f4b615800bc665068365e3c7fc8830e5a03d42bdac0a5a82de1ad1c13e2ecb454fa063d589aa1ad8ce048773d821efabe22edbdf736383670e',
+  ),
+);
